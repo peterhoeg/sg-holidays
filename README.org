@@ -1,0 +1,15 @@
+* SG holidays
+
+SG holidays for the next 12 months.
+
+We set =holiday-general-holidays= as that is supposed to be the country
+specific holiday variable.
+
+This leaves both =holiday-local-holidays= and =holiday-other-holidays=
+available for the user.
+
+* Pending
+
+1. Calculate the `in lieu` days automatically if the previous day falls
+   on a Sunday.
+2. Can we calculate CNY/hari raya/vesak/deepavali?
